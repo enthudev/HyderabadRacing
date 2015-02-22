@@ -1,0 +1,7 @@
+{
+  "name": "WebApplication4",
+  "private": true,
+  "dependencies": {
+    "angularjs": "^1.3.8"
+  }  
+}
